@@ -1,8 +1,7 @@
 📚 Bookly — Elegant Book Catalog App
 Bookly is a modern, mobile-friendly book cataloging platform built with React + Vite. It allows users to browse, filter, and review books by genre, rating, and title. Designed with a nude-tone aesthetic and premium UX, Bookly delivers a frustration-free experience across devices.
 
-🚀 Live Demo
-👉 https://anmolugale13.github.io/bookly-frontend/
+
 
 🛠 Tech Stack
 | Frontend        | Backend         | Deployment       |
